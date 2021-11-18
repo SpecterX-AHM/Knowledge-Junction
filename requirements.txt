@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+SQLAlchemy
+pandas
+plotly
+aiofiles
+requests
+Jinja2
+python-multipart
